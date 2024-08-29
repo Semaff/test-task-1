@@ -1,11 +1,274 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Smart Coffee Maker",
+      "description": "WiFi-enabled coffee maker with scheduling feature.",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.4
+    },
+    {
+      "id": 2,
+      "title": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "price": 129.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "title": "Smart Watch",
+      "description": "Fitness tracker with heart rate monitor and GPS.",
+      "price": 199.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.3
+    },
+    {
+      "id": 4,
+      "title": "Gaming Mouse",
+      "description": "Ergonomic mouse with customizable buttons.",
+      "price": 49.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "title": "Bluetooth Speaker",
+      "description": "Portable speaker with deep bass and long battery life.",
+      "price": 79.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "title": "4K Monitor",
+      "description": "Ultra HD monitor with vibrant colors and wide viewing angles.",
+      "price": 299.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "title": "Laptop Stand",
+      "description": "Adjustable laptop stand with cooling fan.",
+      "price": 39.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.2
+    },
+    {
+      "id": 8,
+      "title": "USB-C Hub",
+      "description": "Multi-port USB-C hub with HDMI and SD card reader.",
+      "price": 59.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "title": "Mechanical Keyboard",
+      "description": "Backlit mechanical keyboard with tactile switches.",
+      "price": 89.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "title": "Smartphone Gimbal",
+      "description": "3-axis handheld gimbal for smooth video recording.",
+      "price": 149.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.5
+    },
+    {
+      "id": 11,
+      "title": "VR Headset",
+      "description": "Immersive VR headset with high-resolution display.",
+      "price": 299.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "title": "Portable Charger",
+      "description": "High-capacity power bank with fast charging.",
+      "price": 39.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.6
+    },
+    {
+      "id": 13,
+      "title": "Smart Light Bulb",
+      "description": "WiFi-enabled light bulb with adjustable brightness.",
+      "price": 19.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.4
+    },
+    {
+      "id": 14,
+      "title": "Drone with Camera",
+      "description": "Compact drone with 4K camera and GPS.",
+      "price": 499.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "title": "Electric Toothbrush",
+      "description": "Rechargeable toothbrush with multiple cleaning modes.",
+      "price": 59.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.5
+    },
+    {
+      "id": 16,
+      "title": "Smart Thermostat",
+      "description": "Energy-saving smart thermostat with remote control.",
+      "price": 199.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.6
+    },
+    {
+      "id": 17,
+      "title": "Wireless Charger",
+      "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+      "price": 29.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.4
+    },
+    {
+      "id": 18,
+      "title": "Noise Cancelling Earbuds",
+      "description": "Compact earbuds with active noise cancellation.",
+      "price": 149.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.7
+    },
+    {
+      "id": 19,
+      "title": "Smart Doorbell",
+      "description": "Video doorbell with motion detection and two-way audio.",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.6
+    },
+    {
+      "id": 20,
+      "title": "Robot Vacuum",
+      "description": "Automatic vacuum cleaner with smart navigation.",
+      "price": 249.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.5
+    },
+    {
+      "id": 21,
+      "title": "Streaming Media Player",
+      "description": "4K streaming device with voice remote.",
+      "price": 49.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.3
+    },
+    {
+      "id": 22,
+      "title": "Electric Kettle",
+      "description": "Stainless steel electric kettle with temperature control.",
+      "price": 69.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.4
+    },
+    {
+      "id": 23,
+      "title": "Smart Scale",
+      "description": "Bluetooth-enabled scale with body composition analysis.",
+      "price": 49.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.5
+    },
+    {
+      "id": 24,
+      "title": "Waterproof Action Camera",
+      "description": "4K action camera with waterproof housing.",
+      "price": 129.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.6
+    },
+    {
+      "id": 25,
+      "title": "Home Security Camera",
+      "description": "1080p security camera with night vision and motion detection.",
+      "price": 59.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.5
+    },
+    {
+      "id": 26,
+      "title": "Electric Bike",
+      "description": "Folding electric bike with long-range battery.",
+      "price": 999.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.8
+    },
+    {
+      "id": 27,
+      "title": "Wireless Security System",
+      "description": "Complete home security system with wireless sensors.",
+      "price": 299.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.7
+    },
+    {
+      "id": 28,
+      "title": "Bluetooth Earbuds",
+      "description": "True wireless earbuds with touch controls.",
+      "price": 79.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.4
+    },
+    {
+      "id": 29,
+      "title": "Portable Blender",
+      "description": "Compact blender with USB charging for smoothies on the go.",
+      "price": 39.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.3
+    },
+    {
+      "id": 30,
+      "title": "Smart Plug",
+      "description": "WiFi-enabled smart plug with voice control.",
+      "price": 19.99,
+      "currency": "USD",
+      "image": "https://via.placeholder.com/200",
+      "rating": 4.5
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
